@@ -4,7 +4,8 @@ A gui implemenation of face recognition app.
 The app is created using Python's Kivy.<br />
 based on @ageitgey face recognition:
 https://github.com/ageitgey/face_recognition<br />
-Also, Take a look at Adam ageitgey's medium brilliant article for further insight link:https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+Also, Take a look at Adam ageitgey's medium brilliant article for further insight link:https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78<br />
+video sample:https://www.youtube.com/watch?v=Hjg55_fqiiI
 
 ## Prerequisites
 - Tensorflow == 1.12
